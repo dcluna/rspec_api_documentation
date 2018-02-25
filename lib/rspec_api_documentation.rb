@@ -46,6 +46,7 @@ module RspecApiDocumentation
     autoload :SlateWriter
     autoload :ApiBlueprintWriter
     autoload :OpenApiWriter
+    autoload :PostmanWriter
   end
 
   module OpenApi
