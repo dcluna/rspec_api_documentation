@@ -176,7 +176,7 @@ end
 * **api_blueprint**: Generates an index file and example files in [APIBlueprint](https://apiblueprint.org).
 * **append_json**: Lets you selectively run specs without destroying current documentation. See section below.
 * **open_api**: Generates [OpenAPI Specification](https://github.com/OAI/OpenAPI-Specification/blob/master/versions/2.0.md) (OAS) (Current supported version is 2.0). Can be used for [Swagger-UI](https://swagger.io/tools/swagger-ui/)
-* **postman**: Generates a Postman collection JSON file that you can import
+* **postman**: (In Alpha) Generates a Postman collection JSON file that you can import
 
 ### append_json
 
